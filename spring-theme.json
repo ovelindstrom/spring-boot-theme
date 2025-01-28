@@ -1,0 +1,110 @@
+{
+    "name": "Spring Theme",
+    "description": "This theme includes element styles with icons for each of the Spring projects declared at https://spring.io/projects ",
+    "elements": [
+          {
+            "tag": "Spring Session",
+            "icon": "./images/spring-theme/logo-session-transparent.png"
+          },
+          {
+
+            "tag": "Spring Web Services",
+            "icon": "./images/spring-theme/logo-web-services-transparent.png"
+          },
+          {
+
+            "tag": "Spring Amqp",
+            "icon": "./images/spring-theme/spring-amqp-transparent.png"
+          },
+          {
+
+            "tag": "Spring Authorization Server",
+            "icon": "./images/spring-theme/spring-authorization-server-transparent.png"
+          },
+          {
+
+            "tag": "Spring Batch",
+            "icon": "./images/spring-theme/spring-batch-transparent.png"
+          },
+          {
+
+            "tag": "Spring Boot",
+            "icon": "./images/spring-theme/spring-boot-transparent.png"
+          },
+          {
+
+            "tag": "Spring Cloud",
+            "icon": "./images/spring-theme/spring-cloud-transparent.png"
+          },
+          {
+
+            "tag": "Spring Data",
+            "icon": "./images/spring-theme/spring-data-transparent.png"
+          },
+          {
+
+            "tag": "Spring Flo",
+            "icon": "./images/spring-theme/spring-flo-transparent.png"
+          },
+          {
+
+            "tag": "Spring Framework",
+            "icon": "./images/spring-theme/spring-framework-transparent.png"
+          },
+          {
+
+            "tag": "Spring Graphql",
+            "icon": "./images/spring-theme/spring-graphql-transparent.png"
+          },
+          {
+
+            "tag": "Spring Hateoas",
+            "icon": "./images/spring-theme/spring-hateoas-transparent.png"
+          },
+          {
+
+            "tag": "Spring Integration",
+            "icon": "./images/spring-theme/spring-integration-transparent.png"
+          },
+          {
+
+            "tag": "Spring Kafka",
+            "icon": "./images/spring-theme/spring-kafka-transparent.png"
+          },
+          {
+
+            "tag": "Spring Ldap",
+            "icon": "./images/spring-theme/spring-ldap-transparent.png"
+          },
+          {
+
+            "tag": "Spring Modulith",
+            "icon": "./images/spring-theme/spring-modulith-transparent.png"
+          },
+          {
+
+            "tag": "Spring Restdocs",
+            "icon": "./images/spring-theme/spring-restdocs-transparent.png"
+          },
+          {
+
+            "tag": "Spring Security",
+            "icon": "./images/spring-theme/spring-security-transparent.png"
+          },
+          {
+
+            "tag": "Spring Shell",
+            "icon": "./images/spring-theme/spring-shell-transparent.png"
+          },
+          {
+
+            "tag": "Spring Statemachine",
+            "icon": "./images/spring-theme/spring-statemachine-transparent.png"
+          },
+          {
+
+            "tag": "Spring Web Flo",
+            "icon": "./images/spring-theme/spring-web-flo-transparent.png"
+          }
+    ]
+}
