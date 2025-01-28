@@ -9,102 +9,102 @@
           {
 
             "tag": "Spring Web Services",
-            "icon": "./images/spring-theme/logo-web-services-transparent.png"
+            "icon": "logo-web-services-transparent.png"
           },
           {
 
             "tag": "Spring Amqp",
-            "icon": "./images/spring-theme/spring-amqp-transparent.png"
+            "icon": "spring-amqp-transparent.png"
           },
           {
 
             "tag": "Spring Authorization Server",
-            "icon": "./images/spring-theme/spring-authorization-server-transparent.png"
+            "icon": "spring-authorization-server-transparent.png"
           },
           {
 
             "tag": "Spring Batch",
-            "icon": "./images/spring-theme/spring-batch-transparent.png"
+            "icon": "spring-batch-transparent.png"
           },
           {
 
             "tag": "Spring Boot",
-            "icon": "./images/spring-theme/spring-boot-transparent.png"
+            "icon": "spring-boot-transparent.png"
           },
           {
 
             "tag": "Spring Cloud",
-            "icon": "./images/spring-theme/spring-cloud-transparent.png"
+            "icon": "spring-cloud-transparent.png"
           },
           {
 
             "tag": "Spring Data",
-            "icon": "./images/spring-theme/spring-data-transparent.png"
+            "icon": "spring-data-transparent.png"
           },
           {
 
             "tag": "Spring Flo",
-            "icon": "./images/spring-theme/spring-flo-transparent.png"
+            "icon": "spring-flo-transparent.png"
           },
           {
 
             "tag": "Spring Framework",
-            "icon": "./images/spring-theme/spring-framework-transparent.png"
+            "icon": "spring-framework-transparent.png"
           },
           {
 
             "tag": "Spring Graphql",
-            "icon": "./images/spring-theme/spring-graphql-transparent.png"
+            "icon": "spring-graphql-transparent.png"
           },
           {
 
             "tag": "Spring Hateoas",
-            "icon": "./images/spring-theme/spring-hateoas-transparent.png"
+            "icon": "spring-hateoas-transparent.png"
           },
           {
 
             "tag": "Spring Integration",
-            "icon": "./images/spring-theme/spring-integration-transparent.png"
+            "icon": "spring-integration-transparent.png"
           },
           {
 
             "tag": "Spring Kafka",
-            "icon": "./images/spring-theme/spring-kafka-transparent.png"
+            "icon": "spring-kafka-transparent.png"
           },
           {
 
             "tag": "Spring Ldap",
-            "icon": "./images/spring-theme/spring-ldap-transparent.png"
+            "icon": "spring-ldap-transparent.png"
           },
           {
 
             "tag": "Spring Modulith",
-            "icon": "./images/spring-theme/spring-modulith-transparent.png"
+            "icon": "spring-modulith-transparent.png"
           },
           {
 
             "tag": "Spring Restdocs",
-            "icon": "./images/spring-theme/spring-restdocs-transparent.png"
+            "icon": "spring-restdocs-transparent.png"
           },
           {
 
             "tag": "Spring Security",
-            "icon": "./images/spring-theme/spring-security-transparent.png"
+            "icon": "spring-security-transparent.png"
           },
           {
 
             "tag": "Spring Shell",
-            "icon": "./images/spring-theme/spring-shell-transparent.png"
+            "icon": "spring-shell-transparent.png"
           },
           {
 
             "tag": "Spring Statemachine",
-            "icon": "./images/spring-theme/spring-statemachine-transparent.png"
+            "icon": "spring-statemachine-transparent.png"
           },
           {
 
             "tag": "Spring Web Flo",
-            "icon": "./images/spring-theme/spring-web-flo-transparent.png"
+            "icon": "spring-web-flo-transparent.png"
           }
     ]
 }
